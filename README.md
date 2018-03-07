@@ -22,9 +22,6 @@
 	print_r($response);
 
 ## Authors && Contributors
-- [Zuhe]()
-- [Ma Lijie](https://github.com/malijiefoxmail)
+- [liwqbj](https://github.com/liwqbj)
 
 ## License
-
-licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)
