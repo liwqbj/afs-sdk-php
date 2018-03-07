@@ -1,0 +1,22 @@
+{
+  "name": "aliyuncs/afs-sdk-php",
+  "description": "滑动验证sdk包",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "liwqbj",
+      "email": "liwqbj@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Afs\\": "aliyun-php-sdk-afs/afs/Request/V20180112"
+    },
+    "files": [
+      "aliyun-php-sdk-core/Config.php"
+    ]
+  },
+  "require": {
+    "php":">=5.3"
+  }
+}
